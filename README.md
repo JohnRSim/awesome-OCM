@@ -18,23 +18,32 @@
   - [Video Channels](#youtube-channels)
   - [Official Examples](#official-examples)
   - [Tutorials](#tutorials)
-  - [Samples](#examples)
+  - [Samples](#samples)
   - [Blog Posts](#blog-posts)
 
 # Get Started
  - [OCM Homepage](https://www.oracle.com/uk/content-management)
  - [Documentation](https://docs.oracle.com/en/cloud/paas/content-cloud/)
+ - [API](https://docs.oracle.com/en/cloud/paas/content-cloud/apisdk.html)
  - [Downloads](https://www.oracle.com/content-management/technologies/downloads/)
+ - [Solutions & Architecture](https://docs.oracle.com/solutions/?q=&cType=reference-architectures%2Csolution-playbook%2Cbuilt-deployed&sort=date-desc&lang=en)
+ - [Videos](https://docs.oracle.com/en/cloud/paas/content-cloud/videos.html)
 
 # Resources
 
-
 ### Official Resources
 - [Oracle Content Management Toolkit](https://github.com/oracle/content-and-experience-toolkit)
+- [Oracle Content Management SDK](https://github.com/oracle/content-management-sdk)
 - [Oracle Content Management Cloud SDK for Browsers](https://github.com/oracle/content-sdk-for-browser)
 - [Oracle Content Management Cloud SDK for Node.js](https://github.com/oracle/content-sdk-for-nodejs)
+- [Video Hub](https://videohub.oracle.com/tag?tagid=ocm)
+- [Books](https://docs.oracle.com/en/cloud/paas/content-cloud/books.html)
 
+# Samples
+- [Oracle Samples](https://docs.oracle.com/en/cloud/paas/content-cloud/samples.html)
 
+# Blog-Posts
+- [BitmapBytes](https://bitmapbytes.com)
 
 ## Contribute
 
