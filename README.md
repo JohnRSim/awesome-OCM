@@ -20,7 +20,10 @@
   - [Samples](#examples)
   - [Blog Posts](#blog-posts)
 
-
+# Get Started
+ - [OCM Homepage](https://www.oracle.com/uk/content-management)
+ - [Documentation](https://docs.oracle.com/en/cloud/paas/content-cloud/)
+ - 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
