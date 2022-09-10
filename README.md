@@ -13,6 +13,7 @@
 - [Get Started](#get-started)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
+  - [Github](#GitHub)
   - [Community](#community)
   - [Video Channels](#youtube-channels)
   - [Official Examples](#official-examples)
@@ -23,7 +24,18 @@
 # Get Started
  - [OCM Homepage](https://www.oracle.com/uk/content-management)
  - [Documentation](https://docs.oracle.com/en/cloud/paas/content-cloud/)
- - 
+ - [Downloads](https://www.oracle.com/content-management/technologies/downloads/)
+
+# Resources
+
+
+### Official Resources
+- [Oracle Content and Experience Toolkit](https://github.com/oracle/content-and-experience-toolkit)
+- [Oracle Content and Experience Cloud SDK for Browsers](https://github.com/oracle/content-sdk-for-browser)
+- [Oracle Content and Experience Cloud SDK for Node.js](https://github.com/oracle/content-sdk-for-nodejs)
+
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
