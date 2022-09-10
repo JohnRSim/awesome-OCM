@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./resources/logo.png" alt="logo of awesome-OCM repository">
+  <img width="400" src="./awesome.png" alt="logo of awesome-OCM repository">
   <br>
   <br>
 </p>
