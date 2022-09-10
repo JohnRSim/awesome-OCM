@@ -30,9 +30,9 @@
 
 
 ### Official Resources
-- [Oracle Content and Experience Toolkit](https://github.com/oracle/content-and-experience-toolkit)
-- [Oracle Content and Experience Cloud SDK for Browsers](https://github.com/oracle/content-sdk-for-browser)
-- [Oracle Content and Experience Cloud SDK for Node.js](https://github.com/oracle/content-sdk-for-nodejs)
+- [Oracle Content Management Toolkit](https://github.com/oracle/content-and-experience-toolkit)
+- [Oracle Content Management Cloud SDK for Browsers](https://github.com/oracle/content-sdk-for-browser)
+- [Oracle Content Management Cloud SDK for Node.js](https://github.com/oracle/content-sdk-for-nodejs)
 
 
 
