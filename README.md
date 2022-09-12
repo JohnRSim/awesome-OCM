@@ -66,7 +66,7 @@
 - [A-Team | Dolf Dijkstra](https://blogs.oracle.com/authors/dolf-dijkstra)
 
 # Developer Blogs
-- [BitmapBytes](https://bitmapbytes.com)
+- [BitmapBytes - Oracle Cloud Innovation](https://bitmapbytes.com)
 - [PM | Preston So](https://preston.so)
 - [PM | Igor Polyakov - Musings About Technology](https://igor-polyakov.com)
 - [CoreContentOnly](https://www.corecontentonly.com/)
