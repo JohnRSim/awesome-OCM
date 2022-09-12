@@ -25,7 +25,7 @@
 # Get Started
  - [OCM Homepage](https://www.oracle.com/uk/content-management)
  - [Documentation](https://docs.oracle.com/en/cloud/paas/content-cloud/)
- - [API](https://docs.oracle.com/en/cloud/paas/content-cloud/apisdk.html)
+ - [API SDK Overview](https://docs.oracle.com/en/cloud/paas/content-cloud/apisdk.html)
  - [Downloads](https://www.oracle.com/content-management/technologies/downloads/)
  - [Solutions & Architecture](https://docs.oracle.com/solutions/?q=&cType=reference-architectures%2Csolution-playbook%2Cbuilt-deployed&sort=date-desc&lang=en)
 
