@@ -39,6 +39,7 @@
 - [Oracle Content Management Cloud SDK for Browsers](https://github.com/oracle/content-sdk-for-browser)
 - [Oracle Content Management Cloud SDK for Node.js](https://github.com/oracle/content-sdk-for-nodejs)
 - [Books](https://docs.oracle.com/en/cloud/paas/content-cloud/books.html)
+- [Release Notes](https://docs.oracle.com/en/cloud/paas/content-cloud/whats-new/index.html)
 
 ### Samples
 - [Oracle Samples](https://docs.oracle.com/en/cloud/paas/content-cloud/samples.html)
