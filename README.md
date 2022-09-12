@@ -49,6 +49,7 @@
 ### Video Channels
  - [Training](https://docs.oracle.com/en/cloud/paas/content-cloud/videos.html)
  - [Video Hub](https://videohub.oracle.com/tag?tagid=ocm)
+ - [YouTube](https://www.youtube.com/playlist?list=PLKCk3OyNwIzs00F4tKn-Q9wfBApaKkEn9)
 
 # Blogs
 
