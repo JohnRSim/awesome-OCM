@@ -70,7 +70,6 @@
 - [PM | Igor Polyakov - Musings About Technology](https://igor-polyakov.com)
 - [CoreContentOnly](https://www.corecontentonly.com/)
 - [@oceblogger](https://medium.com/@oceblogger)
-- [@oceblogger](https://medium.com/@oceblogger)
 
 # Partner Blogs
 - [Fishbbowl Solutions](https://fishbowlsolutions.com/blog)
