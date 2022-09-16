@@ -73,7 +73,7 @@
 - [@oceblogger](https://medium.com/@oceblogger)
 
 # Partner Blogs
-- [Fishbbowl Solutions](https://fishbowlsolutions.com/blog)
+- [Fishbowl Solutions](https://fishbowlsolutions.com/blog)
 
 ## Contribute
 
