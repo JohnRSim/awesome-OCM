@@ -63,6 +63,8 @@
 - [PM | Monte Kluemper](https://blogs.oracle.com/authors/monte-kluemper-x)
 - [PM | Chris DeGrace](https://blogs.oracle.com/authors/chris-degrace)
 - [PM | Mark Paterson](https://blogs.oracle.com/authors/mark-paterson)
+- [PM | Marc Boutillette](https://blogs.oracle.com/authors/marc-boutillette)
+- [PM | Bob Meixner](https://blogs.oracle.com/authors/bob-meixner)
 - [Architect | Mark Fincham](https://blogs.oracle.com/authors/mark-fincham)
 - [A-Team | Dolf Dijkstra](https://blogs.oracle.com/authors/dolf-dijkstra)
 
